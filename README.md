@@ -1,17 +1,4 @@
-*Wasteland.Altis* by Team Wasteland!
+*A3Wasteland Altis* by Aftermath of Future!
 ===================
 
-ArmA 3 Wasteland is a harsh survival sandbox mission where 2 teams and independent players fight for survival.
-
-
-The mission is not ready yet, so for now it's just a placeholder :)
-
-
-*Team Wasteland* collaborators:
-
-       GoT - JoSchaap
-       TPG - AgentRev
-           - MercyfulFate
-       KoS - His_Shadow
-       KoS - Bewilderbeest
-       404 - Del1te
+Hier kann noch was hin!
